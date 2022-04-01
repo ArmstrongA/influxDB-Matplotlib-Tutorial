@@ -4,10 +4,10 @@ The project outlines how you can use influxdb to store time series data, retriev
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install packages.
 
 ```bash
-pip install foobar
+pip install matplotlib
 ```
 
 ## Usage

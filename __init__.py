@@ -1,3 +1,4 @@
+# Import packages
 from dotenv import load_dotenv
 import os
 from influxdb_client import InfluxDBClient, Point, WriteOptions
